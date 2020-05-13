@@ -6,4 +6,5 @@
 - João
 - Sergio
 - Teste
+- Matheus Dias
 - Rafa Simas
