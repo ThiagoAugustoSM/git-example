@@ -6,3 +6,4 @@
 - João
 - Sergio
 - Teste
+- Rafa Simas
