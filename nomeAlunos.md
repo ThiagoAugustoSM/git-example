@@ -5,4 +5,5 @@
 - Thiago Augusto
 - João
 - Sergio
+- Lucas
 - Teste
