@@ -5,6 +5,7 @@
 - Thiago Augusto
 - João
 - Sergio
+- Lucas
 - Teste
 - Matheus Dias
 - Rafa Simas
