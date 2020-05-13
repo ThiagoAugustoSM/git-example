@@ -4,3 +4,4 @@
 
 - Thiago Augusto
 - João
+- Sergio
