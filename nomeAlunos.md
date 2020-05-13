@@ -7,5 +7,5 @@
 - Sergio
 - Lucas
 - Teste
-- Matheus Dias
-- Rafa Simas
+- Matheus
+- Rafa Dev full-stack
