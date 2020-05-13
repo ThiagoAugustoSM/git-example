@@ -6,5 +6,4 @@
 - João
 - Sergio
 - Teste
-- Matheus Dias
-- Rafa Simas
+- Rafa Dev full-stack
